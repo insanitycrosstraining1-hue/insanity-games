@@ -1,0 +1,1 @@
+export const metadata={title:"Insanity Games",description:"Plataforma de competições"};export default function RootLayout({children}){return <html lang="pt-BR"><body style={{margin:0,background:"#0b1220",color:"#edf5ff",fontFamily:"Arial,sans-serif"}}>{children}</body></html>}
